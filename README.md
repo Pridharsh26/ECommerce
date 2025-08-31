@@ -3,7 +3,7 @@ This project is a full-stack E-Commerce application for clothing built with Reac
 
 🚀 Features
 
-👨‍💼 Admin
+👨‍💼 Admin:
 Add new clothing products with details:
 product_id
 name
@@ -11,12 +11,13 @@ MRP (price)
 quantity (stock availability)
 Manage inventory in MongoDB
 
-🛒 User
+🛒 User:
 View available products
 Browse product detail
 Place orders for desired items
 
 🛠️ Tech Stack
+
 Frontend: React.js
 Backend: Express.js (Node.js)
 Database: MongoDB (Mongoose ODM)
